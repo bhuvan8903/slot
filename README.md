@@ -35,7 +35,9 @@ Execute the program using runserver command.
 </style>
 </head>
 <body>
-	
+	<center>
+        <img src="C:\Users\admin\Pictures\Screenshots\logo.png" height="100" width="540">
+    </center>
 	<br>
 	<table align="center" width="540" cellspacing="2" cellpadding="4" border="4" border="5" bgcolor="aqua">
 	<caption><b>SLOT TIMETABLE - Bhuvaneshwaran H (212223240018)</b></caption>
@@ -145,11 +147,12 @@ Execute the program using runserver command.
 		</table>
 	</body>
 </html>
+
 ```
 
 ## OUTPUT
 
-![Screenshot 2024-10-10 104054](https://github.com/user-attachments/assets/3d810bea-81d4-40fc-bb66-c448a1cd946b)
+![Screenshot 2024-10-10 105113](https://github.com/user-attachments/assets/598a763a-421b-4d6b-9365-88ba16b41f7f)
 
 
 ## RESULT
