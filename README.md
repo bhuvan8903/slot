@@ -36,11 +36,11 @@ Execute the program using runserver command.
 </head>
 <body>
 	<center>
-	<img src="LOGO.png" height="100" width="540">
-	</center>
+        <img src="C:\Users\admin\Pictures\Screenshots\logo.png" height="100" width="540">
+    </center>
 	<br>
 	<table align="center" width="540" cellspacing="2" cellpadding="4" border="4" border="5" bgcolor="aqua">
-	<caption><b>SLOT TIMETABLE - SANJAY V (212223230188)</b></caption>
+	<caption><b>SLOT TIMETABLE - Bhuvaneshwaran H (212223240018)</b></caption>
 	<tr align="center">
 		<th bgcolor="Lavender">Day/Time</th>
 		<th bgcolor="Lavender">Monday</th>
@@ -150,7 +150,8 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/8625148c-bc7c-4616-88af-7c79061fcf6b)
+![Screenshot 2024-10-10 105113](https://github.com/user-attachments/assets/b22a8249-8198-4578-8eb7-fed6dc75e8fd)
+
 
 
 ## RESULT
